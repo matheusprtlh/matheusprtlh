@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Matheus Portilho — Software Developer, AI and Automation">
+  <rect width="1200" height="300" fill="#111111"/>
+  <path d="M40 40H1160M40 260H1160" stroke="#404040" stroke-width="1"/>
+  <path d="M68 92H92V116H68ZM1108 184H1132V208H1108Z" fill="none" stroke="#777777" stroke-width="2"/>
+  <text x="600" y="137" fill="#f4f4f4" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" text-anchor="middle" letter-spacing="2">MATHEUS PORTILHO</text>
+  <text x="600" y="186" fill="#bcbcbc" font-family="Arial,Helvetica,sans-serif" font-size="24" text-anchor="middle" letter-spacing="3">SOFTWARE DEVELOPER  |  AI &amp; AUTOMATION</text>
+  <text x="600" y="228" fill="#7c7c7c" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle" letter-spacing="3">BUILDING INTELLIGENT SOLUTIONS</text>
+</svg>
