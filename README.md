@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Matheus Portilho — Software Developer | AI & Automation" width="100%" />
+  <img src="assets/banner-v2.svg" alt="Matheus Portilho — Software Developer | AI & Automation" width="100%" />
   <br />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-111111?style=flat-square" alt="AI & Automation" />
   <img src="https://img.shields.io/badge/Location-Goi%C3%A2nia%2C%20Brazil-333333?style=flat-square" alt="Goiânia, Brazil" />
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-555555?style=flat-square" alt="Building and learning" />
+  <br /><br />
+  <img src="assets/typing.svg" alt="AI, Automation, Systems Integration and Software" width="85%" />
+</div>
+
+<div align="center">
+  <img src="assets/ai-wave.svg" alt="Animated AI audio waveform" width="85%" />
 </div>
 
 ## About Me
@@ -30,17 +36,23 @@ I'm a software developer in training, focused on **AI-powered solutions, workflo
 
 ## Featured Projects
 
+<a href="https://github.com/matheusprtlh/JarvisM"><img src="assets/project-1.svg" alt="JarvisM project card" width="100%" /></a>
+
 ### [JarvisM — AI Voice Assistant](https://github.com/matheusprtlh/JarvisM)
 
 A personal voice assistant for Windows, created as an independent passion project. It combines wake-word activation, local speech transcription, AI-generated responses, text-to-speech, conversation history, and desktop actions such as launching applications and controlling volume.
 
 **Stack:** Python · Whisper · Gemini API · Edge TTS · WebView2
 
+<img src="assets/project-2.svg" alt="Plugin OctoPrint project card" width="100%" />
+
 ### Plugin-Octoprint — Custom Systems Integration
 
 A freelance integration project connecting the **Bambu Lab ecosystem** with a specialized web system used in a medical context. Built independently for a specific client workflow, with a focus on practical system interoperability.
 
-**Status:** Project-specific implementation; repository link will be added when its public version is ready for sharing.
+**Status:** Project-specific freelance implementation. Repository access is currently private; public sharing is pending review.
+
+<a href="https://github.com/matheusprtlh/EditallQ"><img src="assets/project-3.svg" alt="EditallQ project card" width="100%" /></a>
 
 ### [EditallQ — AI-Assisted Procurement Monitoring](https://github.com/matheusprtlh/EditallQ)
 
