@@ -3,10 +3,10 @@
 <rect width="1200" height="310" fill="#0c0c0c"/><rect width="1200" height="310" fill="url(#grid)" opacity=".7"/>
 <g clip-path="url(#frame)"><rect x="-360" y="0" width="360" height="310" fill="url(#scan)"><animate attributeName="x" values="-360;1200" dur="8s" repeatCount="indefinite"/></rect></g>
 <path d="M45 48H1160M45 263H1160" stroke="#555" stroke-width="1"/><path d="M45 48V75M1160 48V75M45 236V263M1160 236V263" stroke="#ddd" stroke-width="2"/>
-<text x="70" y="80" fill="#888" font-family="monospace" font-size="16" letter-spacing="2">PROFILE // 001</text>
+<text x="70" y="80" fill="#888" font-family="monospace" font-size="16" letter-spacing="2">PERFIL // 001</text>
 <text x="1130" y="80" text-anchor="end" fill="#888" font-family="monospace" font-size="16">GOIÂNIA • BR</text>
 <text x="600" y="156" text-anchor="middle" fill="#fafafa" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="61" letter-spacing="3">MATHEUS PORTILHO</text>
-<text x="600" y="203" text-anchor="middle" fill="#c6c6c6" font-family="monospace" font-size="23" letter-spacing="2">SOFTWARE DEVELOPER  /  AI &amp; AUTOMATION</text>
+<text x="600" y="203" text-anchor="middle" fill="#c6c6c6" font-family="monospace" font-size="23" letter-spacing="2">DESENVOLVEDOR DE SOFTWARE  /  IA &amp; AUTOMAÇÃO</text>
 <circle cx="71" cy="241" r="5" fill="#eee"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
-<text x="88" y="246" fill="#aaa" font-family="monospace" font-size="14">BUILDING INTELLIGENT SOLUTIONS</text>
+<text x="88" y="246" fill="#aaa" font-family="monospace" font-size="14">CRIANDO SOLUÇÕES INTELIGENTES</text>
 <text x="1130" y="246" text-anchor="end" fill="#888" font-family="monospace" font-size="14">v2.0</text></svg>
