@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#272727" stroke-width="1"/></pattern><linearGradient id="scan" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="frame"><rect x="0" y="0" width="1200" height="310"/></clipPath></defs>
+<rect width="1200" height="310" fill="#0c0c0c"/><rect width="1200" height="310" fill="url(#grid)" opacity=".7"/>
+<g clip-path="url(#frame)"><rect x="-360" y="0" width="360" height="310" fill="url(#scan)"><animate attributeName="x" values="-360;1200" dur="8s" repeatCount="indefinite"/></rect></g>
+<path d="M45 48H1160M45 263H1160" stroke="#555" stroke-width="1"/><path d="M45 48V75M1160 48V75M45 236V263M1160 236V263" stroke="#ddd" stroke-width="2"/>
+<text x="70" y="80" fill="#888" font-family="monospace" font-size="16" letter-spacing="2">PROFILE // 001</text>
+<text x="1130" y="80" text-anchor="end" fill="#888" font-family="monospace" font-size="16">GOIÂNIA • BR</text>
+<text x="600" y="156" text-anchor="middle" fill="#fafafa" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="61" letter-spacing="3">MATHEUS PORTILHO</text>
+<text x="600" y="203" text-anchor="middle" fill="#c6c6c6" font-family="monospace" font-size="23" letter-spacing="2">SOFTWARE DEVELOPER  /  AI &amp; AUTOMATION</text>
+<circle cx="71" cy="241" r="5" fill="#eee"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+<text x="88" y="246" fill="#aaa" font-family="monospace" font-size="14">BUILDING INTELLIGENT SOLUTIONS</text>
+<text x="1130" y="246" text-anchor="end" fill="#888" font-family="monospace" font-size="14">v2.0</text></svg>
