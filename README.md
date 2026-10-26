@@ -52,9 +52,9 @@ Projeto freelancer de integração do **ecossistema Bambu Lab** com um sistema w
 
 **Situação:** implementação específica para cliente. O repositório permanece privado; sua divulgação pública ainda depende de revisão.
 
-<a href="https://github.com/matheusprtlh/EditallQ"><img src="assets/project-3.svg" alt="Card do projeto EditallQ" width="100%" /></a>
+<a href="https://github.com/matheusprtlh/Editall.Q"><img src="assets/project-3.svg" alt="Card do projeto EditallQ" width="100%" /></a>
 
-### [EditallQ — Monitoramento de licitações com IA](https://github.com/matheusprtlh/EditallQ)
+### [EditallQ — Monitoramento de licitações com IA](https://github.com/matheusprtlh/Editall.Q)
 
 **Protótipo de automação em n8n** que consulta dados de contratações públicas do PNCP e utiliza IA para avaliar a relevância de oportunidades. Extrai informações de editais e prevê persistência de dados, prevenção de duplicidades e notificações via WhatsApp.
 
